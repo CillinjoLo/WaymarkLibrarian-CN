@@ -10,9 +10,9 @@
 ----------
 # 基本使用方法
 ----------
-1.获取最新版本程序https://github.com/CillinjoLo/WaymarkLibrarian-CN/releases
+1.获取最新版本程序https://github.com/CillinjoLo/WaymarkLibrarian-CN/releases  
   Newtonsoft.Json.dll需要跟程序本身在同一个文件夹（这个dll允许导入和导出预设）  
-2.第一次运行程序时，系统会提醒您备份角色设置，然后再继续。也可能会提示您有可用的更新文件。  
+2.第一次运行程序时，系统会提醒您备份角色设置，然后再继续。也可能会提示您有可用的更新文件。    
   如果不更新的话程序将运行而不更新这些文件，但它可能无法写入预设游戏或显示区域名称。  
 3.选择FFXIV存储用户配置文件的文件夹。程序在第一次启动时地址为“…\Documents\My Games\FINAL FANTASY XIV-Realm Reborn”，  
   国服的话在 游戏根目录\game\My Games\FINAL FANTASY XIV - A Realm Reborn,可以单击“…”按钮进行更改。  
