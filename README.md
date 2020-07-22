@@ -2,10 +2,10 @@
 ----------
 # 目的
 ----------
-这是一个为最终幻想XIV提供的工具，允许玩家将无限数量的标点预设替换游戏内游戏提供的极为有限的标点插槽，使用这个程序的风险由你自己承担（请阅读下面的重要部分）。
-原作者版：https://github.com/PunishedPineapple/WaymarkLibrarian
-国服适配：CillinjoLo 西林觉罗西瓜
-技术支持：Bluefissure獭爹和加隆德青磷技术开发部的所有成员
+这是一个为最终幻想XIV提供的工具，允许玩家将无限数量的标点预设替换游戏内游戏提供的极为有限的标点插槽，使用这个程序的风险由你自己承担（请阅读下面的重要部分）。  
+原作者版：https://github.com/PunishedPineapple/WaymarkLibrarian  
+国服适配：CillinjoLo 西林觉罗西瓜  
+技术支持：Bluefissure獭爹和加隆德青磷技术开发部的所有成员  
 
 ----------
 # 基本使用方法
